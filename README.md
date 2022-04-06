@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="600" height="320" />
 
 ## ⚡ Languages and Tools:
 

@@ -3,16 +3,12 @@
 <a href="https://www.linkedin.com/in/asheesh-maheshwari/">
   <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
 
 <br />
 
-
-
-
-<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-
+<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="300" height="300" />
 
 ## ⚡ Languages and Tools:
 

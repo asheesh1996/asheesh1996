@@ -6,16 +6,15 @@
 
 
 <br />
-
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
+
+<br 
+
+
 
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="500" height="320" />
   
-
-<br />
 
 
 ## ⚡ Languages and Tools:
@@ -37,10 +36,16 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+/>
+<br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=asheesh1996&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh1996&hide=TeX&layout=compact)
 
+
+<br align="left" ![Github Stats](https://github-readme-stats.vercel.app/api?username=asheesh1996&count_private=true&show_icons=true&include_all_commits=true)
+/>
+
+<br align="right"![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh1996&hide=TeX&layout=compact)
+/>
 
 
 

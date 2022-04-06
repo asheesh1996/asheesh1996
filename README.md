@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I'm Asheesh Maheshwari
 
 <a href="https://www.linkedin.com/in/asheesh-maheshwari/">
   <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -35,11 +35,27 @@
 <br />
 
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="asheesh1996" 
+    bg_color=#808080/></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=asheesh1996&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh1996&hide=TeX&layout=compact)
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="asheesh1996" /></p>
 
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh1996&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="asheesh1996" /></p>
+
+<!-- <br>
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <!--

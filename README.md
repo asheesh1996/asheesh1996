@@ -5,7 +5,20 @@
 </a>
 
 
-## ⚡ Technologies
+<br />
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
+
+
+<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+
+<br />
+
+
+## ⚡ Languages and Tools:
 
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotNET)
 ![C#](https://img.shields.io/badge/-C%20Sharp-black?style=flat-square&logo=csharp)
@@ -27,9 +40,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=asheesh1996&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh1996&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
-
 
 
 

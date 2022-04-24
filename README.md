@@ -4,6 +4,11 @@
   <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+<a href="https://asheesh1996.github.io/Portfolio/">
+  <img align="left" alt="Asheesh's Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/profile.svg" />
+</a>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
 
 <br />

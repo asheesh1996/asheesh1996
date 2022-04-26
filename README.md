@@ -3,12 +3,8 @@
 <a href="https://www.linkedin.com/in/asheesh-maheshwari/">
   <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
-
-
 <h4> | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • |</h4>
-
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="400" height="320" />

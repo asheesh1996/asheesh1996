@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer who aims to develop quality product</h3>
 
 <div align=center>
-<a href="https://www.linkedin.com/in/asheesh-maheshwari/">
-  <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/asheesh-maheshwari/"> <img alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
 
@@ -14,6 +12,7 @@
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/mygif.gif?raw=true" width="400" height="320" />
 
 <p align="center">
 ## ⚡ Languages and Tools:

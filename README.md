@@ -1,5 +1,7 @@
-### Hi there 👋 , I'm Asheesh Maheshwari
+<h1 align="center"> Hi there 👋 , I'm Asheesh Maheshwari </h1>
+<h3 align="center">Software Engineer who aims to develop quality product</h3>
 
+<div align=center>
 <a href="https://www.linkedin.com/in/asheesh-maheshwari/">
   <img align="left" alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -7,11 +9,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
 
 <h4> | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • |</h4>
+</div>
 
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="400" height="320" />
 
+<p align="center">
 ## ⚡ Languages and Tools:
 
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotNET)
@@ -32,7 +36,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
+<p align="center">
 
 <br />
 
@@ -56,7 +60,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
+<p align="center"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 

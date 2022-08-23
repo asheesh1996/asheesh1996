@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
 
-<h4> | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • |</h4>
+<h4>⚡ | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • | ⚡</h4>
 </div>
 
 <br />
@@ -41,7 +41,7 @@
 <br />
 
 
-<p><img align="left"
+<p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="asheesh1996" 
     bg_color=#808080/></p>

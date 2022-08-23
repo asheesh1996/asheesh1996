@@ -50,7 +50,7 @@
 <br />
 
 <div align=center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheesh1996&show_icons=true&locale=en&theme=radical&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="asheesh1996" /></p>
 
 <br />

@@ -13,6 +13,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="400" height="380 " />
 
+
+<div align=left>
 <p align="left">
 <h2 align="center">⚡ Languages and Tools:</h2>
 
@@ -43,14 +45,15 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="asheesh1996" 
     bg_color=#808080/></p>
+</div>
 
-<br>
+<br />
 
 <div align=center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheesh1996&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="asheesh1996" /></p>
 
-<br>
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh1996&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="asheesh1996" /></p>
 

@@ -3,14 +3,15 @@
 
 <div align=center>
 <a href="https://www.linkedin.com/in/asheesh-maheshwari/"> <img alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
+
 <h4> | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • |</h4>
 </div>
 
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/asheesh1996/asheesh1996/blob/main/code.gif?raw=true" width="400" height="380 " />
-<br />
 
 <p align="left">
 <h2 align="center">⚡ Languages and Tools:</h2>
@@ -52,7 +53,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh1996&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="asheesh1996" /></p>
-</div>
+
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img

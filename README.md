@@ -1,12 +1,16 @@
-<h1 align="center"> Hi there 👋 , I'm Asheesh Maheshwari </h1>
-<h3 align="center">Software Engineer who aims to develop quality product</h3>
+<h1 align="center"> Hi there 👋 , I'm Asheesh </h1>
+<h3 align="center">Software Engineer who aims to develop quality products</h3>
 
 <div align=center>
-<a href="https://www.linkedin.com/in/asheesh-maheshwari/"> <img alt="Asheesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/asheesh-maheshwari/" target="_blank">
+  <img alt="LinkedIn" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="48px"/>
+</a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=asheesh1996.asheesh1996" width="150" height="30" alt="Visitor Count"/>
+</div>
 
-<h4>⚡ | • <a href="https://asheesh1996.github.io/Portfolio/">Website</a> • | ⚡</h4>
+<h4>⚡ | • <a href="https://asheesh1996.github.io/Portfolio/">PortFolio</a> • | ⚡</h4>
 </div>
 
 <br />
@@ -33,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 <p align="center">
 
@@ -55,23 +60,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh1996&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="asheesh1996" /></p>
 
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
-      
 
-<!--
-**asheesh1996/asheesh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
